@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HB+350ctAv/cl8y9vdi08qOHmcGJJt15rY53oRDcnjw=",
+  "Source": "Application.Host",
+  "BasePath": "_content/Application.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

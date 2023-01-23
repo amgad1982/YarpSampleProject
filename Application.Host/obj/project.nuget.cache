@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNUuh81GKPNJ5sZ4nScJEg9dBiCmTHlOhqmxuyrM6YFVbMCG801LyVEFISIK8eeQKipnR6Fh527gI9KUlThNxQ==",
+  "success": true,
+  "projectFilePath": "/home/amgad/MyData/Projects/YarpSampleProject/Application.Host/Application.Host.csproj",
+  "expectedPackageFiles": [
+    "/home/amgad/.nuget/packages/yarp.reverseproxy/1.1.1/yarp.reverseproxy.1.1.1.nupkg.sha512",
+    "/home/amgad/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
